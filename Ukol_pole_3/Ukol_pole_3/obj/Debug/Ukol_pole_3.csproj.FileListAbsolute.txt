@@ -1,0 +1,9 @@
+C:\Users\janma\OneDrive\Plocha\PRG\Ukol_pole_3\Ukol_pole_3\bin\Debug\Ukol_pole_3.exe.config
+C:\Users\janma\OneDrive\Plocha\PRG\Ukol_pole_3\Ukol_pole_3\bin\Debug\Ukol_pole_3.exe
+C:\Users\janma\OneDrive\Plocha\PRG\Ukol_pole_3\Ukol_pole_3\bin\Debug\Ukol_pole_3.pdb
+C:\Users\janma\OneDrive\Plocha\PRG\Ukol_pole_3\Ukol_pole_3\obj\Debug\Ukol_pole_3.Form1.resources
+C:\Users\janma\OneDrive\Plocha\PRG\Ukol_pole_3\Ukol_pole_3\obj\Debug\Ukol_pole_3.Properties.Resources.resources
+C:\Users\janma\OneDrive\Plocha\PRG\Ukol_pole_3\Ukol_pole_3\obj\Debug\Ukol_pole_3.csproj.GenerateResource.cache
+C:\Users\janma\OneDrive\Plocha\PRG\Ukol_pole_3\Ukol_pole_3\obj\Debug\Ukol_pole_3.csproj.CoreCompileInputs.cache
+C:\Users\janma\OneDrive\Plocha\PRG\Ukol_pole_3\Ukol_pole_3\obj\Debug\Ukol_pole_3.exe
+C:\Users\janma\OneDrive\Plocha\PRG\Ukol_pole_3\Ukol_pole_3\obj\Debug\Ukol_pole_3.pdb
